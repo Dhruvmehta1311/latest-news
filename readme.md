@@ -40,6 +40,8 @@ To run this project locally, follow these steps:
 
 3. Explore different categories and try out the search functionality!
 
+**Note**: Due to restrictions imposed by the News API, this website will only work on a local server (localhost) and won't function properly when deployed to any other server.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request. Please make sure to follow the existing code style and conventions.
