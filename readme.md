@@ -9,6 +9,7 @@ This is a modern news website created using HTML, CSS, and JavaScript. It utiliz
 ## Live Demo
 
 The website is hosted live on [Latest News](https://latest-news-five.vercel.app/).
+
 **Note**: Due to restrictions imposed by the News API, this website will only work on a local server (localhost) and won't function properly when deployed to any other server.
 
 ## Technologies Used
